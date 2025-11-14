@@ -1,0 +1,6 @@
+@media screen and (max-width:400px) {
+    .items{
+        margin-top: 50% !important;
+        display: none !important;
+    }
+}

@@ -1,0 +1,8 @@
+@media screen and (max-width:400px) {
+    .parent{
+        margin-top: 3% !important;
+        width: 169vw !important;
+        background-color: rgb(209, 203, 203) !important;
+    }
+    
+}

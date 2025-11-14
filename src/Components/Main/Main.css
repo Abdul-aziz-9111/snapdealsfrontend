@@ -1,0 +1,12 @@
+@media screen and (max-width:400px) {
+#big{
+    display: none !important;
+}
+.content{
+    display: none !important;
+}
+.mapbox{
+    display: none !important;
+}    
+}
+

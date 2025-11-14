@@ -1,0 +1,142 @@
+@media screen and (max-width:400px) {
+
+    .topnavbar{
+    display: none !important;
+}
+.navbar{
+    
+    position: fixed !important;
+margin-top: 0px !important;
+    width: auto !important;
+    background-color: rgb(241, 3, 202) !important;
+height: 100vh !important;
+}
+
+.navbar img{
+    width: 50vw !important;
+    height: 19vh !important;
+}
+
+input{
+    display: none  !important;
+}
+.navbar i{
+    display: none !important;
+}
+.navbar h5{
+    display: none !important;
+} 
+button{
+    display: none !important;
+}
+.navbar .icons{
+    display:flex !important;
+margin-right: 80px !important;
+width: 130px !important;
+align-items: center !important;
+gap: 30px !important;
+}
+
+.navbar #logo{
+    margin-left: 4px !important;
+    font-size: 30px !important;
+    display: flex !important;
+}
+
+
+.navbar .icons #heart{
+display: block !important;
+    font-size: 30px !important;
+color: white !important;
+margin-left: 130px !important;
+}
+
+
+.navbartwo{
+    margin-top: 12.6% !important;
+    display: block !important;
+    height: 72px !important;
+    border: 1px solid white !important;
+    width: 168vw !important;
+    
+    
+
+}
+.contenttwo{
+    display: flex !important;
+    justify-content: space-between !important;
+    width:165vw !important;
+margin-top: 5% !important;
+
+}
+.contenttwo span{
+   
+    background-color: black !important;
+color: white !important;
+padding: 2px 10px !important;
+
+}
+
+.boxtwo{
+    display: flex !important;
+height: 148px !important;
+width: 165vw !important;
+overflow-x: scroll !important;
+scrollbar-width: none !important;
+}
+.boxtwo .box{
+    display: flex !important;
+    width: 180px !important;
+ height: 148px !important;
+border: 1px solid rgb(175, 173, 173) !important;
+}
+.navbartwo input{
+    
+    background-color: rgb(233, 231, 231) !important;
+    margin-left: 1.5% !important;
+    display: block !important;
+height: 64px !important;
+width:161vw !important;
+border-radius: 30px !important;
+margin-top: 12px !important;
+border: none !important;
+font-size: 17px !important;
+}
+.bottomnavbar{
+    display: flex !important;
+   bottom: 0px !important;
+   margin-bottom: 1px !important;
+    width: 100% !important;
+    position: fixed !important;
+    height: 100px !important;
+    background-color: white !important;
+       
+    
+}
+.bottomnavbar .content{
+    display: block !important;
+    margin-left:51px !important;
+    margin-top: 2% !important;
+}
+.bottomnavbar .content p{
+    font-size:23px !important;
+font-weight: bold !important;
+}
+
+.bottomnavbar i{
+    
+    font-size: 39px !important;
+    margin-left: 15% !important;
+    margin-top:5% !important;
+}
+#second{
+    margin-left: 30% !important;
+}
+#profile{
+    margin-left: 28% !important;
+}
+#home{
+    color: rgb(153, 0, 64) !important;
+}
+
+}

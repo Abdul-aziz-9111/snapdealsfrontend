@@ -1,0 +1,353 @@
+
+@media screen and (max-width:400px) {
+    
+    .productbox{
+        
+border: 1px solid black !important;
+        height: 70vh !important;
+        margin-left: 1.2% !important;
+        margin-top: 1% !important;
+
+    }
+    .productbox span{
+        border: 1px solid white !important;
+        
+    }
+    .rsonethreeseven{
+        font-weight: bolder !important;
+        margin-left: 7px !important;
+        font-size: 23px !important;
+    }
+    .del{
+        font-weight: bold !important;
+        font-size: 23px !important;
+        color: rgb(132, 132, 136) !important;
+    }
+    .off{
+        color: rgb(107, 104, 104) !important;
+       margin-left: -5px !important;
+       font-size: 17px !important;
+       
+       
+    }
+    .mrindia{
+        display: block !important;
+        margin-top: 120% !important;
+               height: 62vh  !important;
+ 
+    
+    }
+.products{
+    
+         flex-wrap: wrap !important;
+         
+         width: 167vw !important;
+         margin-top: -120% !important;
+         height: 124vh !important;
+   gap: 0px !important;
+   margin-left: -7px !important;
+}
+    .productbox{
+        margin-top: 1px !important;
+        width: 82.5vw !important;
+        height: 62vh  !important;
+    background-color:white !important;
+    border: 1px solid rgb(255, 255, 255) !important;
+    
+    }
+     .productbox p{
+        font-size: 18.6px !important;
+    font-weight: bold !important; 
+    }
+    
+    .productbox .imageone,.imagetwo,.imagethree,.imagefour,.imagefive,.imagesix,.imagesev{
+    
+        margin-top: 1px !important;
+        height: 350px !important;
+   width: 290px !important;
+margin-left: 1px !important;    
+}
+
+.stars img{
+    display: none !important;
+    height: 27px !important;
+    width: 30px !important;
+}
+.productbox .imageone{
+    background-image: url('https://g.sdlcdn.com/imgs/k/y/t/Vertical9-Mini-Wireless-5-W-SDL825474351-1-3d3de.jpg?w=220&h=258&sharp=7') !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+}
+.productbox .imagetwo{
+background-image: url('https://g.sdlcdn.com/imgs/l/b/2/M19-Earbud-TWS-Wireless-in-SDL832312273-1-d66a5.png?w=220&h=258&sharp=7') !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+
+}
+.productbox .imagethree{
+background-image: url('https://g.sdlcdn.com/imgs/k/8/3/Fadiso-Fashion-Black-Charm-Bracelet-SDL284164717-1-11b2c.jpg?w=220&h=258&sharp=7') !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+
+}
+.productbox .imagefour{
+background-image: url('https://g.sdlcdn.com/imgs/k/w/t/Abrexo-Silver-Stainless-Steel-Analog-SDL148794784-1-4ce68.jpg') !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+
+}
+
+.imagefive{
+  
+  display: block !important;  
+background-image: url('https://g.sdlcdn.com/imgs/l/b/j/DENVER-Hamilton-Perfume-Premium-Long-SDL446210399-1-81a2e.jpg?w=220&h=258&sharp=7') !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+
+}
+.imagesix{
+background-image: url('https://g.sdlcdn.com/imgs/k/v/8/Case-Vault-Covers-Shock-Proof-SDL623944357-1-ac1a2.jpg') !important;
+background-repeat: no-repeat !important;
+background-size: contain !important;
+}
+
+
+.imageeight{
+    background-image: url('https://g.sdlcdn.com/imgs/k/3/l/WHATON-Slim-Fit-Distressed-Men-SDL558015660-1-5f1c4.jpg?w=220&h=258&sharp=7') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 250px !important;
+}
+.imagenine{
+    background-image: url('https://g.sdlcdn.com/imgs/k/z/n/nikline-Polyester-Men-s-Puffer-SDL836987609-1-d607d.jpg?w=220&h=258&sharp=7') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+}
+.imageten{
+    background-image: url('https://g.sdlcdn.com/imgs/k/3/3/SUNTAP-Engineered-Thar-Car-Toy-SDL416279678-1-3b585.jpg?w=220&h=258&sharp=7') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+}
+.imageeleven{
+    background-image: url('https://g.sdlcdn.com/imgs/k/2/s/OMRON-BAGS-Black-Polyester-Backpack-SDL169149422-1-4561a.jpg?w=220&h=258&sharp=7') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+}
+.imagetwelve{
+    background-image: url('https://g.sdlcdn.com/imgs/k/5/l/uzak-Multicolor-Square-Sunglasses-Pack-SDL802383215-1-04fc4.jpg?w=220&h=258&sharp=7') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+}
+.imagethirteen{
+    background-image: url('https://g.sdlcdn.com/imgs/k/y/v/Case-Vault-Covers-Shock-Proof-SDL886626332-1-ec30a.jpg?w=220&h=258&sharp=7') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+}
+
+.imagefourteen{
+    background-image: url('https://g.sdlcdn.com/imgs/l/b/h/Denver-Pride-Caliber-Honour-Imperial-SDL283922221-1-c333d.jpg?w=220&h=258&sharp=7') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+}
+
+.imagefifteen{
+    background-image: url('https://g.sdlcdn.com/imgs/k/e/6/Mikado-Silver-Metal-Bracelet-Ring-SDL296646917-1-1f7b3.jpg?w=220&h=258&sharp=7') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+}
+
+.imagesixteen{
+    background-image: url('https://g.sdlcdn.com/imgs/k/r/7/DAJUBHAI-DJ-LED-Par-Flood-SDL823425455-1-ad322.jpg?w=220&h=258&sharp=7') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+}
+
+.imageseventeen{
+    background-image: url('https://g.sdlcdn.com/imgs/k/9/j/SKYRISE-MINI-RECHARGEABLE-FOLDING-TABLE-SDL243239881-1-d6234.jpg') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+}
+.imageeightteen{
+    background-image: url('https://g.sdlcdn.com/imgs/k/z/y/Nivea-Deep-Impact-Fresh-Active-SDL364275671-1-7ece2.jpg?w=220&h=258&sharp=7') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+}
+.imagenineteen{
+    background-image: url('https://g.sdlcdn.com/imgs/k/z/1/Try-This-Cotton-Blend-Hooded-SDL702820429-1-1390f.jpg?w=220&h=258&sharp=7') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+}
+.imagetwenty{
+    background-image: url('https://g.sdlcdn.com/imgs/k/z/1/Try-This-Cotton-Blend-Hooded-SDL702820429-1-1390f.jpg?w=220&h=258&sharp=7') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+    
+}
+.imagetwentyone{
+    background-image: url('https://g.sdlcdn.com/imgs/k/y/m/Cycle-Fancy-Tyre-Light-Tyre-SDL106184108-1-d4ed4.jpg?w=220&h=258&sharp=7') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+    
+}
+.imagetwentytwo{
+    background-image: url('https://g.sdlcdn.com/imgs/j/t/m/Aimil-Memtone-Syrup-Ayurvedic-Medicine-SDL574778394-1-edae1.jpg?w=220&h=258&sharp=7') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;   
+width: 260px !important;
+    
+}
+.imagetwentythree{
+    background-image: url('https://g.sdlcdn.com/imgs/k/4/z/let-light-3W-Rechargeable-Flashlight-SDL950977296-1-471b9.jpg?w=220&h=258&sharp=7') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+    
+}
+.imagetwentyfour{
+    background-image: url('https://g.sdlcdn.com/imgs/j/s/s/Campus-MIKE-N-Maroon-Running-SDL097540987-1-d7db2.jpeg?w=220&h=258&sharp=7') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+    
+}
+.imagetwentyfive{
+    background-image: url('https://g.sdlcdn.com/imgs/j/s/7/Krosshorn-Faux-Leather-Brown-Formal-SDL497845560-1-268ae.jpeg?w=220&h=258&sharp=7') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+    
+}
+.imagetwentysix{
+    background-image: url('https://g.sdlcdn.com/imgs/k/6/n/SKYVILLA-24-Colors-Art-Markers-SDL081687701-1-0a6aa.jpg?w=220&h=258&sharp=7') !important;
+ background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+ 
+}
+
+.imagetwentyseven{
+    background-image: url('https://g.sdlcdn.com/imgs/k/5/m/Kraftsman-Wooden-Chess-Board-Big-SDL779692422-1-b001f.jpeg?w=220&h=258&sharp=7') !important;
+ background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+ 
+}
+.imagetwentyeight{
+    background-image: url('https://g.sdlcdn.com/imgs/k/4/7/VS-MALL-Multicolor-Cotton-Blend-SDL358887886-1-e9af1.jpg?w=220&h=258&sharp=7') !important;
+ background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+
+}
+.imagetwentynine{
+    background-image: url('https://g.sdlcdn.com/imgs/k/0/u/52dealz-Cotton-Blend-Men-s-SDL811738012-1-4d6fa.jpg?w=220&h=258&sharp=7') !important;
+ background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+
+}
+.imagethirty{
+    background-image: url('https://g.sdlcdn.com/imgs/k/7/g/Remote-Control-Car-For-Kids-SDL575349622-1-ac865.jpg?w=220&h=258&sharp=7') !important;
+ background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+
+}
+.imagethirtyone{
+    background-image: url('https://g.sdlcdn.com/imgs/k/2/0/Bullet-2-Metal-Big-Size-SDL801092986-1-49cac.jpeg?w=220&h=258&sharp=7') !important;
+ background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+
+}
+.imagethirtytwo{
+    background-image: url('https://g.sdlcdn.com/imgs/k/7/j/geemy-Hair-Cutting-Green-Cordless-SDL838561452-1-caee4.jpg?w=220&h=258&sharp=7') !important;
+ background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+
+}
+.imagethirtythree{
+background-image: url('https://g.sdlcdn.com/imgs/k/u/4/Blue-Eagle-Mini-Diamond-500-SDL064072498-1-38a32.jpg?w=220&h=258&sharp=7') !important;
+ background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+
+}
+.imagethirtyfour{
+background-image: url('https://g.sdlcdn.com/imgs/i/6/z/Treo-By-Milton-Campa-Pop-SDL544946017-1-613c3.jpeg?w=220&h=258&sharp=7') !important;
+ background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px !important;
+width: 260px !important;
+
+}
+
+
+}

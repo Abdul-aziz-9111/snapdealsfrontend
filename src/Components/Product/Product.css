@@ -1,0 +1,41 @@
+@media screen and (max-width:400px) {
+
+    .navbar{
+    width:100% !important;
+    height: 47px !important;
+}    
+.navbar img{
+    height: 28px !important;
+}
+.navbar .icons{
+    margin-left: 39px !important;
+gap: 24px !important;
+}
+#ek{
+    display: flex !important;
+    font-size: 18px !important;
+}
+
+#ela{
+    display: flex !important;
+    font-size: 19px !important;
+}
+#new{
+    display: flex !important;
+    font-size: 18px !important;
+}
+.image{
+    display: flex  !important;
+    width: 330px !important;
+    margin-top: 30% !important;
+    height: auto !important;
+margin-left: 3% !important ;
+}
+.image img{
+    display: flex !important;
+width: auto !important;
+min-height: 390px !important;
+border: 1px solid white !important;
+}
+
+}
