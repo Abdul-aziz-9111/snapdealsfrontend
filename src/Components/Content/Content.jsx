@@ -46,7 +46,7 @@ const Content = () => {
         <h4>Quantity</h4>
         </div>
         <div className='flex' style={{marginTop:'3%'}}>
-        <button style={{borderRadius:'7px',backgroundColor:'#0e9690',color:'white',width:'169px',height:'50px'}} id="b">Buy On App Rs 171</button>
+        <button onClick={checkoutHandler} style={{borderRadius:'7px',backgroundColor:'#0e9690',color:'white',width:'169px',height:'50px'}} id="b">Buy On App Rs 171</button>
         &nbsp;<button onClick={checkoutHandler} style={{borderRadius:'7px',backgroundColor:'#b8062c',color:'white',width:'169px',height:'50px'}} id="b">Buy Now</button>
        </div>
            </div>
