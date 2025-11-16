@@ -4,7 +4,7 @@ import './Content.css'
 const Content = () => {
     const [amount,setAmount] = useState(1);
   const checkoutHandler = async()=>{
-    const res= await fetch('http://10.211.220.193:4000/order',{
+    const res= await fetch('https://snapdealsbackend-6.onrender.com/order',{
       method:"POST",
       headers:{"Content-Type":"application/json"},
       body:JSON.stringify({amount})
